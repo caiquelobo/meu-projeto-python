@@ -1,2 +1,2 @@
 # meu-projeto-python
-Projeto em Python aplicando arquitetura em camadas (Service/Repository), DTOs com dataclasses e tipagem estática.
+Projeto backend em Python que aplica os padrões Service, Repository e DTO para organizar o código, validar regras de negócio e seguir boas práticas de desenvolvimento.
